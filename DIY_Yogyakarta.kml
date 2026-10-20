@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>DIY_Yogyakarta_shape.csv</name>
+    <Style id="poly-0288D1-1200-76-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4cd18802</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-0288D1-1200-76-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4cd18802</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-0288D1-1200-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0288D1-1200-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0288D1-1200-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Daerah Istimewa Yogyakarta - bagian 001</name>
+      <description><![CDATA[Area: Daerah Istimewa Yogyakarta<br>Part: 1<br>Source: GADM 4.0 (2022)]]></description>
+      <styleUrl>#poly-0288D1-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Area">
+          <value>Daerah Istimewa Yogyakarta</value>
+        </Data>
+        <Data name="Part">
+          <value>1.0</value>
+        </Data>
+        <Data name="Source">
+          <value>GADM 4.0 (2022)</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              110.712578,-8.198878,0
+              110.712463,-8.198962,0
+              110.712402,-8.199085,0
+              110.712456,-8.199251,0
+              110.712563,-8.199424,0
+              110.712662,-8.199506,0
+              110.712761,-8.199603,0
+              110.712952,-8.199639,0
+              110.71312,-8.199585,0
+              110.713173,-8.199325,0
+              110.712997,-8.199099,0
+              110.712769,-8.198976,0
+              110.712578,-8.198878,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Daerah Istimewa Yogyakarta - bagian 002</name>
+      <description><![CDATA[Area: Daerah Istimewa Yogyakarta<br>Part: 2<br>Source: GADM 4.0 (2022)]]></description>
+      <styleUrl>#poly-0288D1-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Area">
+          <value>Daerah Istimewa Yogyakarta</value>
+        </Data>
+        <Data name="Part">
+          <value>2.0</value>
+        </Data>
+        <Data name="Source">
+          <value>GADM 4.0 (2022)</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              110.676445,-8.18539,0
+              110.676445,-8.185689,0
+              110.676628,-8.185615,0
+              110.676704,-8.185425,0
+              110.676605,-8.185338,0
+              110.676529,-8.185341,0
+              110.676445,-8.18539,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Daerah Istimewa Yogyakarta - bagian 003</name>
+      <description><![CDATA[Area: Daerah Istimewa Yogyakarta<br>Part: 3<br>Source: GADM 4.0 (2022)]]></description>
+      <styleUrl>#poly-0288D1-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Area">
+          <value>Daerah Istimewa Yogyakarta</value>
+        </Data>
+        <Data name="Part">
+          <value>3.0</value>
+        </Data>
+        <Data name="Source">
+          <value>GADM 4.0 (2022)</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              110.677879,-8.18431,0
+              110.677788,-8.1844,0
+              110.67775,-8.184497,0
+              110.677834,-8.184593,0
+              110.677986,-8.184677,0
+              110.678085,-8.184748,0
+              110.678169,-8.184811,0
+              110.67836,-8.184837,0
+              110.678459,-8.184822,0
+              110.678528,-8.184759,0
+              110.678551,-8.184677,0
+              110.678459,-8.184566,0
+              110.678368,-8.184433,0
+              110.678375,-8.184196,0
+              110.678314,-8.184065,0
+              110.678185,-8.184066,0
+              110.677879,-8.18431,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Daerah Istimewa Yogyakarta - bagian 004</name>
+      <description><![CDATA[Area: Daerah Istimewa Yogyakarta<br>Part: 4<br>Source: GADM 4.0 (2022)]]></description>
+      <styleUrl>#poly-0288D1-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Area">
+          <value>Daerah Istimewa Yogyakarta</value>
+        </Data>
+        <Data name="Part">
+          <value>4.0</value>
+        </Data>
+        <Data name="Source">
+          <value>GADM 4.0 (2022)</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              110.678452,-8.182962,0
+              110.678368,-8.182995,0
+              110.678307,-8.18312,0
+              110.678291,-8.183377,0
+              110.678322,-8.183528,0
+              110.678566,-8.183827,0
+              110.678642,-8.183871,0
+              110.678795,-8.183878,0
+              110.678871,-8.183845,0
+              110.678978,-8.183711,0
+              110.679031,-8.183454,0
+              110.678978,-8.183183,0
+              110.678871,-8.182991,0
+              110.678795,-8.182937,0
+              110.678452,-8.182962,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Daerah Istimewa Yogyakarta - bagian 005</name>
+      <description><![CDATA[Area: Daerah Istimewa Yogyakarta<br>Part: 5<br>Source: GADM 4.0 (2022)]]></description>
+      <styleUrl>#poly-0288D1-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Area">
+          <value>Daerah Istimewa Yogyakarta</value>
+        </Data>
+        <Data name="Part">
+          <value>5.0</value>
+        </Data>
+        <Data name="Source">
+          <value>GADM 4.0 (2022)</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              110.820435,-8.202838,0
+              110.820343,-8.202708,0
+              110.820091,-8.202708,0
+              110.81974,-8.20289,0
+              110.819527,-8.203058,0
+              110.81942,-8.203264,0
+              110.819382,-8.203447,0
+              110.819504,-8.203585,0
+              110.819801,-8.203577,0
+              110.820053,-8.203501,0
+              110.820099,-8.203227,0
+              110.820419,-8.203105,0
+              110.820435,-8.202838,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Daerah Istimewa Yogyakarta - bagian 006</name>
+      <description><![CDATA[Area: Daerah Istimewa Yogyakarta<br>Part: 6<br>Source: GADM 4.0 (2022)]]></description>
+      <styleUrl>#poly-0288D1-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Area">
+          <value>Daerah Istimewa Yogyakarta</value>
+        </Data>
+        <Data name="Part">
+          <value>6.0</value>
+        </Data>
+        <Data name="Source">
+          <value>GADM 4.0 (2022)</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              110.718613,-8.199932,0
+              110.718597,-8.200152,0
+              110.71862,-8.200312,0
+              110.718689,-8.200403,0
+              110.718735,-8.200567,0
+              110.719109,-8.200845,0
+              110.719452,-8.201153,0
+              110.720016,-8.201487,0
+              110.720047,-8.201215,0
+              110.719955,-8.200984,0
+              110.71991,-8.200881,0
+              110.719856,-8.200799,0
+              110.719803,-8.200691,0
+              110.719719,-8.200522,0
+              110.719673,-8.200399,0
+              110.719589,-8.20022,0
+              110.719566,-8.200066,0
+              110.719582,-8.199666,0
+              110.719513,-8.199569,0
+              110.719429,-8.199481,0
+              110.719269,-8.199332,0
+              110.719093,-8.199373,0
+              110.718941,-8.199409,0
+              110.718727,-8.199609,0
+              110.718681,-8.199768,0
+              110.718613,-8.199932,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Daerah Istimewa Yogyakarta - bagian 007</name>
+      <description><![CDATA[Area: Daerah Istimewa Yogyakarta<br>Part: 7<br>Source: GADM 4.0 (2022)]]></description>
+      <styleUrl>#poly-0288D1-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Area">
+          <value>Daerah Istimewa Yogyakarta</value>
+        </Data>
+        <Data name="Part">
+          <value>7.0</value>
+        </Data>
+        <Data name="Source">
+          <value>GADM 4.0 (2022)</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              110.744873,-8.195546,0
+              110.74485,-8.195404,0
+              110.74472,-8.195339,0
+              110.744553,-8.195382,0
+              110.744453,-8.195557,0
+              110.744499,-8.195698,0
+              110.744652,-8.195807,0
+              110.744759,-8.19585,0
+              110.744835,-8.195818,0
+              110.74485,-8.195699,0
+              110.744873,-8.195546,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Daerah Istimewa Yogyakarta - bagian 008</name>
+      <description><![CDATA[Area: Daerah Istimewa Yogyakarta<br>Part: 8<br>Source: GADM 4.0 (2022)]]></description>
+      <styleUrl>#poly-0288D1-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Area">
+          <value>Daerah Istimewa Yogyakarta</value>
+        </Data>
+        <Data name="Part">
+          <value>8.0</value>
+        </Data>
+        <Data name="Source">
+          <value>GADM 4.0 (2022)</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              110.6729353,-7.7865372,0
+              110.663559,-7.7938328,0
+              110.6580048,-7.8047748,0
+              110.6470032,-7.7952447,0
+              110.638176,-7.8003936,0
+              110.6249084,-7.8035908,0
+              110.6213913,-7.7996149,0
+              110.616333,-7.8020964,0
+              110.6120834,-7.7987547,0
+              110.598671,-7.8000517,0
+              110.600105,-7.806694,0
+              110.5855789,-7.8086081,0
+              110.5856552,-7.8028145,0
+              110.5769653,-7.8071451,0
+              110.5761871,-7.8018913,0
+              110.5838623,-7.7980323,0
+              110.5848236,-7.7909074,0
+              110.5778809,-7.7895575,0
+              110.5636139,-7.7824488,0
+              110.5558701,-7.7840576,0
+              110.5534363,-7.7917986,0
+              110.5458832,-7.7916269,0
+              110.532135,-7.7981734,0
+              110.5294876,-7.7908325,0
+              110.5112,-7.7774267,0
+              110.5070877,-7.7689719,0
+              110.4917679,-7.7668052,0
+              110.491806,-7.7421093,0
+              110.4684982,-7.6372066,0
+              110.4685135,-7.6177821,0
+              110.4632568,-7.6047482,0
+              110.4594727,-7.5838151,0
+              110.4596863,-7.5700603,0
+              110.457222,-7.560113,0
+              110.4461059,-7.5418417,0
+              110.4159698,-7.5611644,0
+              110.4014587,-7.5796485,0
+              110.390976,-7.5949244,0
+              110.3795471,-7.6011243,0
+              110.3752441,-7.6072383,0
+              110.3545074,-7.6228366,0
+              110.3380432,-7.6304965,0
+              110.3332291,-7.6366067,0
+              110.3140335,-7.650661,0
+              110.3041077,-7.6548924,0
+              110.2984009,-7.6649809,0
+              110.2913132,-7.6723661,0
+              110.2846527,-7.6871281,0
+              110.2726746,-7.7066917,0
+              110.2613068,-7.6846209,0
+              110.2659454,-7.6730518,0
+              110.2671127,-7.6630611,0
+              110.263092,-7.6611376,0
+              110.2636566,-7.6459322,0
+              110.2542572,-7.6420317,0
+              110.2403717,-7.6542983,0
+              110.2333298,-7.6506877,0
+              110.2140045,-7.647716,0
+              110.2055969,-7.6514802,0
+              110.192482,-7.6447825,0
+              110.1749191,-7.6485124,0
+              110.1656342,-7.6488996,0
+              110.1604843,-7.6459866,0
+              110.1435471,-7.645205,0
+              110.1365051,-7.6543064,0
+              110.1179428,-7.6683331,0
+              110.1267166,-7.6822672,0
+              110.1353836,-7.6873722,0
+              110.1379471,-7.693429,0
+              110.1308899,-7.7016573,0
+              110.1347504,-7.7062378,0
+              110.1325226,-7.716011,0
+              110.1323013,-7.7405133,0
+              110.1139679,-7.7648644,0
+              110.1127014,-7.7769113,0
+              110.1012497,-7.779036,0
+              110.0921478,-7.7860856,0
+              110.0807877,-7.8066101,0
+              110.0723114,-7.8121867,0
+              110.0626907,-7.8139739,0
+              110.0589981,-7.8236871,0
+              110.0594025,-7.8413014,0
+              110.050293,-7.8459458,0
+              110.050972,-7.8508673,0
+              110.0435181,-7.8598266,0
+              110.0420303,-7.8851347,0
+              110.0327148,-7.8880291,0
+              110.0315552,-7.8963065,0
+              110.0248871,-7.8906336,0
+              110.0151367,-7.8926744,0
+              110.029213,-7.8971715,0
+              110.0299301,-7.90165,0
+              110.0431747,-7.9058323,0
+              110.0937653,-7.9261642,0
+              110.1428223,-7.9502888,0
+              110.1663742,-7.9606328,0
+              110.2022324,-7.9833837,0
+              110.2366791,-7.9950852,0
+              110.2709427,-8.0083151,0
+              110.3196869,-8.0214777,0
+              110.344383,-8.030159,0
+              110.3507385,-8.0444956,0
+              110.3595428,-8.0568972,0
+              110.3680344,-8.0610123,0
+              110.3751678,-8.0715809,0
+              110.3871613,-8.0723295,0
+              110.3986893,-8.0787783,0
+              110.4088821,-8.0793209,0
+              110.4184952,-8.0864305,0
+              110.4302902,-8.0893183,0
+              110.4365006,-8.1001549,0
+              110.455307,-8.1021566,0
+              110.4674835,-8.1103525,0
+              110.485939,-8.1123056,0
+              110.4938202,-8.1176357,0
+              110.5033035,-8.1185265,0
+              110.5251007,-8.1282444,0
+              110.5277863,-8.1316309,0
+              110.5356216,-8.1313219,0
+              110.579391,-8.138245,0
+              110.584755,-8.14442,0
+              110.595398,-8.149407,0
+              110.599998,-8.145247,0
+              110.607025,-8.146957,0
+              110.6251221,-8.1585102,0
+              110.636673,-8.1620703,0
+              110.64431,-8.1685905,0
+              110.667725,-8.176446,0
+              110.673866,-8.181566,0
+              110.683899,-8.182666,0
+              110.6908569,-8.1872692,0
+              110.70755,-8.1832123,0
+              110.709923,-8.192817,0
+              110.706177,-8.199573,0
+              110.72271,-8.19676,0
+              110.737862,-8.192409,0
+              110.748657,-8.196979,0
+              110.753761,-8.19526,0
+              110.7667236,-8.1966734,0
+              110.7821503,-8.1959209,0
+              110.798828,-8.190663,0
+              110.797401,-8.195309,0
+              110.807549,-8.200628,0
+              110.818642,-8.200022,0
+              110.828949,-8.203964,0
+              110.828911,-8.195586,0
+              110.83419,-8.190649,0
+              110.833183,-8.173638,0
+              110.827621,-8.170961,0
+              110.82309,-8.161266,0
+              110.816414,-8.1541379,0
+              110.818878,-8.145117,0
+              110.812256,-8.146713,0
+              110.8098526,-8.1553698,0
+              110.800323,-8.162052,0
+              110.7901917,-8.1583042,0
+              110.7856445,-8.1488771,0
+              110.7854996,-8.1397076,0
+              110.7898941,-8.1255188,0
+              110.7876129,-8.1032324,0
+              110.7793198,-8.0830145,0
+              110.7785187,-8.0676451,0
+              110.7719116,-8.0581665,0
+              110.768074,-8.0467405,0
+              110.7541733,-8.0257902,0
+              110.7568817,-8.0122557,0
+              110.7617493,-8.003479,0
+              110.7609711,-7.9914999,0
+              110.7649078,-7.9909883,0
+              110.7683334,-7.9801641,0
+              110.7682877,-7.9556422,0
+              110.7713013,-7.9474349,0
+              110.7704315,-7.9313016,0
+              110.7722015,-7.9282026,0
+              110.7694778,-7.9147406,0
+              110.7710495,-7.902041,0
+              110.777832,-7.8919172,0
+              110.7754593,-7.8867121,0
+              110.7783127,-7.8773894,0
+              110.7839966,-7.8722663,0
+              110.7840576,-7.8577652,0
+              110.7882843,-7.8550248,0
+              110.782486,-7.846478,0
+              110.7855835,-7.8172474,0
+              110.7701721,-7.8081131,0
+              110.7643509,-7.8099332,0
+              110.763237,-7.824388,0
+              110.7563629,-7.8273339,0
+              110.7516861,-7.8205047,0
+              110.7453766,-7.8183961,0
+              110.7410202,-7.8058062,0
+              110.7282715,-7.8001246,0
+              110.7239151,-7.7944283,0
+              110.7128067,-7.7919488,0
+              110.7142029,-7.7990046,0
+              110.7087021,-7.8052926,0
+              110.6995239,-7.807519,0
+              110.6798782,-7.8065329,0
+              110.6707306,-7.8032665,0
+              110.6766357,-7.7913547,0
+              110.6729353,-7.7865372,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+        <innerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              110.339798,-8.027785,0
+              110.3396756,-8.02758,0
+              110.339798,-8.0277853,0
+              110.3400116,-8.0280466,0
+              110.339798,-8.027785,0
+            </coordinates>
+          </LinearRing>
+        </innerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Daerah Istimewa Yogyakarta - bagian 009</name>
+      <description><![CDATA[Area: Daerah Istimewa Yogyakarta<br>Part: 9<br>Source: GADM 4.0 (2022)]]></description>
+      <styleUrl>#poly-0288D1-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Area">
+          <value>Daerah Istimewa Yogyakarta</value>
+        </Data>
+        <Data name="Part">
+          <value>9.0</value>
+        </Data>
+        <Data name="Source">
+          <value>GADM 4.0 (2022)</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              110.671783,-8.17991,0
+              110.671692,-8.179859,0
+              110.671593,-8.179878,0
+              110.671471,-8.179981,0
+              110.671448,-8.180217,0
+              110.671486,-8.180349,0
+              110.67157,-8.180463,0
+              110.671715,-8.180518,0
+              110.671799,-8.18042,0
+              110.671822,-8.180002,0
+              110.671783,-8.17991,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Daerah Istimewa Yogyakarta - bagian 010</name>
+      <description><![CDATA[Area: Daerah Istimewa Yogyakarta<br>Part: 10<br>Source: GADM 4.0 (2022)]]></description>
+      <styleUrl>#poly-0288D1-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Area">
+          <value>Daerah Istimewa Yogyakarta</value>
+        </Data>
+        <Data name="Part">
+          <value>10.0</value>
+        </Data>
+        <Data name="Source">
+          <value>GADM 4.0 (2022)</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              110.662437,-8.177362,0
+              110.662384,-8.177304,0
+              110.662323,-8.177261,0
+              110.662079,-8.177312,0
+              110.661987,-8.177494,0
+              110.661964,-8.177705,0
+              110.66214,-8.177796,0
+              110.662231,-8.177897,0
+              110.662338,-8.177861,0
+              110.662437,-8.177778,0
+              110.66256,-8.177724,0
+              110.662575,-8.177599,0
+              110.662575,-8.177506,0
+              110.662537,-8.177433,0
+              110.662437,-8.177362,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Daerah Istimewa Yogyakarta - bagian 011</name>
+      <description><![CDATA[Area: Daerah Istimewa Yogyakarta<br>Part: 11<br>Source: GADM 4.0 (2022)]]></description>
+      <styleUrl>#poly-0288D1-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Area">
+          <value>Daerah Istimewa Yogyakarta</value>
+        </Data>
+        <Data name="Part">
+          <value>11.0</value>
+        </Data>
+        <Data name="Source">
+          <value>GADM 4.0 (2022)</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              110.604874,-8.147505,0
+              110.604752,-8.147531,0
+              110.604622,-8.147555,0
+              110.604439,-8.147696,0
+              110.604301,-8.147861,0
+              110.604149,-8.148062,0
+              110.604164,-8.148236,0
+              110.604218,-8.1483,0
+              110.604431,-8.148279,0
+              110.604492,-8.1482,0
+              110.604507,-8.148026,0
+              110.60466,-8.147935,0
+              110.60482,-8.147724,0
+              110.604988,-8.147587,0
+              110.604874,-8.147505,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Daerah Istimewa Yogyakarta - bagian 012</name>
+      <description><![CDATA[Area: Daerah Istimewa Yogyakarta<br>Part: 12<br>Source: GADM 4.0 (2022)]]></description>
+      <styleUrl>#poly-0288D1-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Area">
+          <value>Daerah Istimewa Yogyakarta</value>
+        </Data>
+        <Data name="Part">
+          <value>12.0</value>
+        </Data>
+        <Data name="Source">
+          <value>GADM 4.0 (2022)</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              110.585709,-8.145516,0
+              110.585617,-8.145443,0
+              110.585464,-8.145433,0
+              110.585327,-8.145452,0
+              110.585197,-8.145553,0
+              110.585144,-8.145717,0
+              110.585213,-8.14579,0
+              110.585365,-8.145827,0
+              110.585464,-8.145827,0
+              110.585556,-8.145754,0
+              110.585617,-8.14568,0
+              110.585709,-8.145516,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Daerah Istimewa Yogyakarta - bagian 013</name>
+      <description><![CDATA[Area: Daerah Istimewa Yogyakarta<br>Part: 13<br>Source: GADM 4.0 (2022)]]></description>
+      <styleUrl>#poly-0288D1-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Area">
+          <value>Daerah Istimewa Yogyakarta</value>
+        </Data>
+        <Data name="Part">
+          <value>13.0</value>
+        </Data>
+        <Data name="Source">
+          <value>GADM 4.0 (2022)</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              110.57814,-8.13956,0
+              110.578255,-8.139713,0
+              110.578285,-8.139804,0
+              110.578384,-8.139885,0
+              110.57856,-8.139876,0
+              110.578712,-8.139903,0
+              110.578911,-8.139949,0
+              110.579147,-8.139904,0
+              110.579216,-8.13975,0
+              110.579247,-8.139561,0
+              110.579208,-8.139281,0
+              110.579117,-8.139074,0
+              110.578812,-8.138974,0
+              110.578484,-8.139001,0
+              110.578278,-8.139064,0
+              110.578178,-8.139226,0
+              110.578186,-8.139416,0
+              110.57814,-8.13956,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Daerah Istimewa Yogyakarta - bagian 014</name>
+      <description><![CDATA[Area: Daerah Istimewa Yogyakarta<br>Part: 14<br>Source: GADM 4.0 (2022)]]></description>
+      <styleUrl>#poly-0288D1-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Area">
+          <value>Daerah Istimewa Yogyakarta</value>
+        </Data>
+        <Data name="Part">
+          <value>14.0</value>
+        </Data>
+        <Data name="Source">
+          <value>GADM 4.0 (2022)</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              110.555351,-8.134372,0
+              110.555237,-8.134325,0
+              110.555138,-8.134281,0
+              110.555038,-8.134377,0
+              110.555016,-8.134499,0
+              110.555046,-8.134624,0
+              110.55513,-8.134699,0
+              110.555267,-8.134737,0
+              110.555443,-8.134722,0
+              110.55545,-8.134645,0
+              110.555412,-8.134434,0
+              110.555351,-8.134372,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Daerah Istimewa Yogyakarta - bagian 015</name>
+      <description><![CDATA[Area: Daerah Istimewa Yogyakarta<br>Part: 15<br>Source: GADM 4.0 (2022)]]></description>
+      <styleUrl>#poly-0288D1-1200-76</styleUrl>
+      <ExtendedData>
+        <Data name="Area">
+          <value>Daerah Istimewa Yogyakarta</value>
+        </Data>
+        <Data name="Part">
+          <value>15.0</value>
+        </Data>
+        <Data name="Source">
+          <value>GADM 4.0 (2022)</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              110.553604,-8.134037,0
+              110.553749,-8.134108,0
+              110.553787,-8.133986,0
+              110.553741,-8.133867,0
+              110.553642,-8.133802,0
+              110.553551,-8.133841,0
+              110.553604,-8.134037,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
